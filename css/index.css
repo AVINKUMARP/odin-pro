@@ -131,6 +131,30 @@ nav{
 .fo{
     font-size: 12px;
 }
+@media (min-width:300px) and (max-width:575.98px){
+    .head h1{
+        font-size: 30px;
+        font-weight: 500;
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    .coo{
+        width: 100%;
+    }
+    .alla .row{
+        width: 100%;
+    }
+    .all1 .row{
+        width: 100%;
+    }
+    .all11 .row{
+        width: 100%;
+    
+    }
+
+}
 @media (min-width:400px) and (max-width:767.98px){
     .alla1{
         background-color: #f9fafb;
